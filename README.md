@@ -1,2 +1,2 @@
-# Assignment1
+# assignment1
 INF SUPERMARKET
